@@ -2,7 +2,9 @@
 This simple NodeJS application will update your Github status with a randomly-selected one based on a theme.
 
 ## Status Groups
-There are currently 0 status groups. This program does not work because I can't think of any lol.
+There are currently 1 status group:
+
+- `pride` - a bunch of statuses based on pride :rainbow_flag:.
 
 ## Running
 To run this program *(e.g, on a server)*, you can clone the repo, add the [environmental variables](#environmental-variables) to a `.env` file, and run the following commands:
