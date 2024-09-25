@@ -1,0 +1,8 @@
+{
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "github-profile-status": "^1.0.0",
+    "node-schedule": "^2.1.1"
+  }
+}
